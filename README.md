@@ -1,4 +1,4 @@
-# Devsoc_induction
+# Basic CNN using numpy
 Simple neural network that is trained to recognise digits from the mnist dataset.
 
 The input was taken as a in the form of 784 neurons with each neuron having the pixel value of a pixel from the image(28 x 28 = 784)
